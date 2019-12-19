@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AdIdTile</string>
+    <string name="service_label">Copy Ad Id</string>
+</resources>
